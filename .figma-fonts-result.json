@@ -1,0 +1,104 @@
+{
+  "resolved": [
+    {
+      "family": "DM Sans",
+      "style": "Bold",
+      "font_style": "normal",
+      "font_weight": 700,
+      "format": "woff2",
+      "location": {
+        "type": "url",
+        "value": "https://static.figma.com/font/DMSans_opsz_wght__1"
+      }
+    },
+    {
+      "family": "DM Sans",
+      "style": "Medium",
+      "font_style": "normal",
+      "font_weight": 500,
+      "format": "woff2",
+      "location": {
+        "type": "url",
+        "value": "https://static.figma.com/font/DMSans_opsz_wght__1"
+      }
+    },
+    {
+      "family": "DM Sans",
+      "style": "Regular",
+      "font_style": "normal",
+      "font_weight": 400,
+      "format": "woff2",
+      "location": {
+        "type": "url",
+        "value": "https://static.figma.com/font/DMSans_opsz_wght__1"
+      }
+    },
+    {
+      "family": "Space Grotesk",
+      "style": "Bold",
+      "font_style": "normal",
+      "font_weight": 700,
+      "format": "woff2",
+      "location": {
+        "type": "url",
+        "value": "https://static.figma.com/font/SpaceGrotesk_wght__1"
+      }
+    },
+    {
+      "family": "Space Grotesk",
+      "style": "Medium",
+      "font_style": "normal",
+      "font_weight": 500,
+      "format": "woff2",
+      "location": {
+        "type": "url",
+        "value": "https://static.figma.com/font/SpaceGrotesk_wght__1"
+      }
+    },
+    {
+      "family": "Noto Sans Math",
+      "style": "Regular",
+      "font_style": "normal",
+      "font_weight": 400,
+      "format": "woff2",
+      "location": {
+        "type": "url",
+        "value": "https://static.figma.com/font/NotoSansMath-Regular_1"
+      }
+    },
+    {
+      "family": "Noto Sans Symbols2",
+      "style": "Regular",
+      "font_style": "normal",
+      "font_weight": 400,
+      "format": "woff2",
+      "location": {
+        "type": "url",
+        "value": "https://static.figma.com/font/NotoSansSymbols2-Regular_5"
+      }
+    },
+    {
+      "family": "Noto Sans Symbols",
+      "style": "Bold",
+      "font_style": "normal",
+      "font_weight": 700,
+      "format": "woff2",
+      "location": {
+        "type": "url",
+        "value": "https://static.figma.com/font/NotoSansSymbols-VF_2"
+      }
+    },
+    {
+      "family": "Noto Sans",
+      "style": "Bold",
+      "font_style": "normal",
+      "font_weight": 700,
+      "format": "woff2",
+      "location": {
+        "type": "url",
+        "value": "https://static.figma.com/font/NotoSans-VF_3"
+      }
+    }
+  ],
+  "blocked": []
+}
